@@ -1,0 +1,4 @@
+C:\AZ-204\44 Lab Azure Web App Service plan\coreapp - 1\coreproj\obj\Debug\netcoreapp2.1\coreproj.csprojAssemblyReference.cache
+C:\AZ-204\44 Lab Azure Web App Service plan\coreapp - 1\coreproj\obj\Debug\netcoreapp2.1\coreproj.csproj.CoreCompileInputs.cache
+C:\AZ-204\44 Lab Azure Web App Service plan\coreapp - 1\coreproj\obj\Debug\netcoreapp2.1\coreproj.AssemblyInfoInputs.cache
+C:\AZ-204\44 Lab Azure Web App Service plan\coreapp - 1\coreproj\obj\Debug\netcoreapp2.1\coreproj.AssemblyInfo.cs
